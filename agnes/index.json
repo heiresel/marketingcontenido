@@ -10,6 +10,17 @@
       "category": "Invertebrado",
       "aprobado_en": "2026-10-31T16:53:52-03:00",
       "estado": "listo"
+    },
+    {
+      "id": "20261105-132024_fire-salamander",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261105-132024_fire-salamander_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261105-132024_fire-salamander_en.mp4",
+      "speciesES": "Salamandra de fuego",
+      "speciesEN": "Fire Salamander",
+      "category": "Anfibio",
+      "aprobado_en": "2026-11-05T21:24:30-03:00",
+      "estado": "listo",
+      "puntaje": 4
     }
   ]
 }
