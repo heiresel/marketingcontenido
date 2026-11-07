@@ -54,6 +54,17 @@
       "aprobado_en": "2026-11-07T15:42:30-03:00",
       "estado": "listo",
       "puntaje": 4
+    },
+    {
+      "id": "20261107-191237_praying-mantis",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261107-191237_praying-mantis_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261107-191237_praying-mantis_en.mp4",
+      "speciesES": "Mantis religiosa",
+      "speciesEN": "Praying Mantis",
+      "category": "Invertebrado",
+      "aprobado_en": "2026-11-07T19:26:14-03:00",
+      "estado": "listo",
+      "puntaje": 4
     }
   ]
 }
