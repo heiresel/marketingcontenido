@@ -43,6 +43,17 @@
       "aprobado_en": "2026-11-06T20:06:40-03:00",
       "estado": "listo",
       "puntaje": 4
+    },
+    {
+      "id": "20261107-152943_argentine-tegu",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261107-152943_argentine-tegu_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261107-152943_argentine-tegu_en.mp4",
+      "speciesES": "Tegú argentino",
+      "speciesEN": "Argentine Tegu",
+      "category": "Reptil",
+      "aprobado_en": "2026-11-07T15:42:30-03:00",
+      "estado": "listo",
+      "puntaje": 4
     }
   ]
 }
