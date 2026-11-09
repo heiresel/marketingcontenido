@@ -76,6 +76,17 @@
       "aprobado_en": "2026-11-09T10:44:14-03:00",
       "estado": "listo",
       "puntaje": 4
+    },
+    {
+      "id": "20261109-153245_guinea-pig",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261109-153245_guinea-pig_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261109-153245_guinea-pig_en.mp4",
+      "speciesES": "Cobaya",
+      "speciesEN": "Guinea Pig",
+      "category": "Mamifero",
+      "aprobado_en": "2026-11-09T15:43:47-03:00",
+      "estado": "listo",
+      "puntaje": 4
     }
   ]
 }
