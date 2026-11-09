@@ -87,6 +87,17 @@
       "aprobado_en": "2026-11-09T15:43:47-03:00",
       "estado": "listo",
       "puntaje": 4
+    },
+    {
+      "id": "20261109-155645_green-cheeked-conure",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261109-155645_green-cheeked-conure_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261109-155645_green-cheeked-conure_en.mp4",
+      "speciesES": "Conuro de mejillas verdes",
+      "speciesEN": "Green-cheeked Conure",
+      "category": "Ave",
+      "aprobado_en": "2026-11-09T16:09:07-03:00",
+      "estado": "listo",
+      "puntaje": 5
     }
   ]
 }
