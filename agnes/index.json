@@ -131,6 +131,17 @@
       "aprobado_en": "2026-11-10T18:13:13-03:00",
       "estado": "listo",
       "puntaje": 4
+    },
+    {
+      "id": "20261111-144627_emperor-scorpion",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261111-144627_emperor-scorpion_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261111-144627_emperor-scorpion_en.mp4",
+      "speciesES": "Escorpión emperador",
+      "speciesEN": "Emperor Scorpion",
+      "category": "Aracnido",
+      "aprobado_en": "2026-11-11T14:57:04-03:00",
+      "estado": "listo",
+      "puntaje": 4
     }
   ]
 }
