@@ -142,6 +142,17 @@
       "aprobado_en": "2026-11-11T14:57:04-03:00",
       "estado": "listo",
       "puntaje": 4
+    },
+    {
+      "id": "20261111-233651_panther-chameleon",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261111-233651_panther-chameleon_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261111-233651_panther-chameleon_en.mp4",
+      "speciesES": "Camaleón pantera",
+      "speciesEN": "Panther Chameleon",
+      "category": "Reptil",
+      "aprobado_en": "2026-11-11T23:48:07-03:00",
+      "estado": "listo",
+      "puntaje": 4
     }
   ]
 }
