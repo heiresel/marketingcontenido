@@ -153,6 +153,17 @@
       "aprobado_en": "2026-11-11T23:48:07-03:00",
       "estado": "listo",
       "puntaje": 4
+    },
+    {
+      "id": "20261113-140537_fennec-fox",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261113-140537_fennec-fox_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261113-140537_fennec-fox_en.mp4",
+      "speciesES": "Zorro fennec",
+      "speciesEN": "Fennec Fox",
+      "category": "Mamifero",
+      "aprobado_en": "2026-11-13T14:15:44-03:00",
+      "estado": "listo",
+      "puntaje": 5
     }
   ]
 }
