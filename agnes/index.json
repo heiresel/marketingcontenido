@@ -175,6 +175,17 @@
       "aprobado_en": "2026-11-16T15:22:39-03:00",
       "estado": "listo",
       "puntaje": 4
+    },
+    {
+      "id": "20261119-170514_jumping-spider",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261119-170514_jumping-spider_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261119-170514_jumping-spider_en.mp4",
+      "speciesES": "Araña saltarina",
+      "speciesEN": "Jumping Spider",
+      "category": "Aracnido",
+      "aprobado_en": "2026-11-19T17:30:23-03:00",
+      "estado": "listo",
+      "puntaje": 5
     }
   ]
 }
