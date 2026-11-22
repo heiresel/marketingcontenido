@@ -219,6 +219,17 @@
       "aprobado_en": "2026-11-22T11:24:01-03:00",
       "estado": "listo",
       "puntaje": 4
+    },
+    {
+      "id": "20261122-122957_syrian-hamster",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261122-122957_syrian-hamster_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261122-122957_syrian-hamster_en.mp4",
+      "speciesES": "Hámster sirio",
+      "speciesEN": "Syrian Hamster",
+      "category": "Mamifero",
+      "aprobado_en": "2026-11-22T12:43:42-03:00",
+      "estado": "listo",
+      "puntaje": 5
     }
   ]
 }
