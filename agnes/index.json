@@ -241,6 +241,17 @@
       "aprobado_en": "2026-11-22T13:07:07-03:00",
       "estado": "listo",
       "puntaje": 4
+    },
+    {
+      "id": "20261122-134404_zebra-finch",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261122-134404_zebra-finch_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261122-134404_zebra-finch_en.mp4",
+      "speciesES": "Diamante mandarín",
+      "speciesEN": "Zebra Finch",
+      "category": "Ave",
+      "aprobado_en": "2026-11-22T13:54:19-03:00",
+      "estado": "listo",
+      "puntaje": 4
     }
   ]
 }
