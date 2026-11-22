@@ -230,6 +230,17 @@
       "aprobado_en": "2026-11-22T12:43:42-03:00",
       "estado": "listo",
       "puntaje": 5
+    },
+    {
+      "id": "20261122-125559_cockatiel",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261122-125559_cockatiel_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261122-125559_cockatiel_en.mp4",
+      "speciesES": "Ninfa",
+      "speciesEN": "Cockatiel",
+      "category": "Ave",
+      "aprobado_en": "2026-11-22T13:07:07-03:00",
+      "estado": "listo",
+      "puntaje": 4
     }
   ]
 }
