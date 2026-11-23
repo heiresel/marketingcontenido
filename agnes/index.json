@@ -274,6 +274,17 @@
       "aprobado_en": "2026-11-23T14:47:02-03:00",
       "estado": "listo",
       "puntaje": 4
+    },
+    {
+      "id": "20261123-172049_amazon-parrot",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261123-172049_amazon-parrot_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261123-172049_amazon-parrot_en.mp4",
+      "speciesES": "Loro amazónico",
+      "speciesEN": "Amazon Parrot",
+      "category": "Ave",
+      "aprobado_en": "2026-11-23T17:33:18-03:00",
+      "estado": "listo",
+      "puntaje": 4
     }
   ]
 }
