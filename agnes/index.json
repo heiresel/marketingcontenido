@@ -318,6 +318,17 @@
       "aprobado_en": "2026-11-25T11:25:14-03:00",
       "estado": "listo",
       "puntaje": 5
+    },
+    {
+      "id": "20261125-114612_ferret",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261125-114612_ferret_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261125-114612_ferret_en.mp4",
+      "speciesES": "Hurón",
+      "speciesEN": "Ferret",
+      "category": "Mamifero",
+      "aprobado_en": "2026-11-25T11:58:40-03:00",
+      "estado": "listo",
+      "puntaje": 4
     }
   ]
 }
