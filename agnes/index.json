@@ -362,6 +362,17 @@
       "aprobado_en": "2026-11-26T14:51:58-03:00",
       "estado": "listo",
       "puntaje": 5
+    },
+    {
+      "id": "20261126-151204_western-hognose-snake",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261126-151204_western-hognose-snake_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261126-151204_western-hognose-snake_en.mp4",
+      "speciesES": "Serpiente hognose",
+      "speciesEN": "Western Hognose Snake",
+      "category": "Reptil",
+      "aprobado_en": "2026-11-26T15:21:20-03:00",
+      "estado": "listo",
+      "puntaje": 4
     }
   ]
 }
