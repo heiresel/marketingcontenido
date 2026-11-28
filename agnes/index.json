@@ -417,6 +417,17 @@
       "aprobado_en": "2026-11-28T10:57:47-03:00",
       "estado": "listo",
       "puntaje": 5
+    },
+    {
+      "id": "20261128-155501_russian-dwarf-hamster",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261128-155501_russian-dwarf-hamster_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261128-155501_russian-dwarf-hamster_en.mp4",
+      "speciesES": "Hámster enano ruso",
+      "speciesEN": "Russian Dwarf Hamster",
+      "category": "Mamifero",
+      "aprobado_en": "2026-11-28T17:57:54-03:00",
+      "estado": "listo",
+      "puntaje": 4
     }
   ]
 }
