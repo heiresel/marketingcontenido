@@ -406,6 +406,17 @@
       "aprobado_en": "2026-11-27T14:04:21-03:00",
       "estado": "listo",
       "puntaje": 4
+    },
+    {
+      "id": "20261128-104642_leopard-gecko",
+      "url_es": "https://heiresel.github.io/marketingcontenido/agnes/20261128-104642_leopard-gecko_es.mp4",
+      "url_en": "https://heiresel.github.io/marketingcontenido/agnes/20261128-104642_leopard-gecko_en.mp4",
+      "speciesES": "Gecko leopardo",
+      "speciesEN": "Leopard Gecko",
+      "category": "Reptil",
+      "aprobado_en": "2026-11-28T10:57:47-03:00",
+      "estado": "listo",
+      "puntaje": 5
     }
   ]
 }
